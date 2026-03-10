@@ -4,6 +4,8 @@ Arte utilizando D3.js.
 
 Título da obra: "Do Nordeste para o Sudeste".
 
+Descrição da obra: A arte apresenta a bandeira da Bahia, com um avião que quando clicado sai para viagem e uma bandeira de Pernambuco, que ao ser clicada muda para a bandeira de São Paulo. A arte representa uma mudança do Nordeste para o Sudeste.
+
 Autoras: Raiane Brandão e Anne Esther.
 
 Clique abaixo para acessar o perfil do Gitlab das autoras.
