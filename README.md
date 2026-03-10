@@ -29,4 +29,5 @@ Clique abaixo para acessar o perfil do Gitlab das autoras.
 </tr>
 </table>
 
-Acesse a obra: <https://anneestherlf.github.io/galeria-de-arte-CC/>
+<a href="https://anneestherlf.github.io/galeria-de-arte-CC/">Acesse a obra</a>
+
